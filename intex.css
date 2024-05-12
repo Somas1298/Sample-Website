@@ -1,0 +1,100 @@
+.Foundationwork{
+    background-color: rgb(247, 245, 169);
+    height: 1050px;
+    width: 1350px;
+    justify-content:center;
+    display: flex;
+    align-items: center;
+
+}
+.Firstlayer{
+    background-color: rgb(244, 247, 252);
+    height: 950px;
+    width: 1250px;
+}
+
+.Photo{
+    background-image:url('the-palm-jumeirah-and-atlantis-hotel-in-dubai--614620458-5c89343cc9e77c0001423014.jpg') ;
+    background-size: cover;
+    height: 400px;
+    width: 900px;
+    border-radius: 20px;
+    padding: 0px;
+}
+#Signup{
+    height: 2rem;
+    padding: 5px;
+    border: 0px;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 5px;
+
+}
+.tree{
+    font-size: x-large;
+    font-weight: 700;
+    position: relative;
+    top: 250px;
+    right: 320px;
+    color:rgb(16, 47, 73);
+}
+.Centre{
+    background-color: rgb(213, 243, 255);
+    height: 60px;
+    width: 750px;
+    position: relative;
+    bottom: 30px; ;
+    display: flex;
+    border-radius: 10px;
+    
+}
+
+.Step2{
+    height: 2rem;
+    padding: 40px;
+    position: relative;
+    top: 5px;
+
+}
+
+.Middle{
+    height: 2rem;
+    padding: 70px;
+    position: relative;
+    bottom: 65px;
+
+}
+.Last{
+    height: 2rem;
+    padding: 60px;
+    position: relative;
+    bottom: 55px;
+
+}
+
+#Glass{
+    
+    padding: 10px;
+    border: 0px;
+    background-color: rgb(223, 214, 214);
+    border-radius: 15px;
+    position: relative;
+    bottom: 35px;
+    left: 95px;
+}
+
+.Album{
+    position: relative;
+    left: 30px;
+    padding: 10px;
+    border: 0;
+    margin-left: 50px;
+}
+.Arrow{
+    position: relative;
+    left: 30px;
+    padding: 10px;
+    margin-left: 900px;
+    
+    
+}
